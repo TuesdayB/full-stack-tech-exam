@@ -40,6 +40,8 @@ app.post('/api/get-name', async (req, res) => {
   try {
     const { userName } = req.body;
 
+    console.log('req.body:', req.body)
+
     if (!userName) {
       return res.status(400).json({ error: 'missing name' });
     }
