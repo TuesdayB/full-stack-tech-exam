@@ -9,7 +9,7 @@
 | **GitHub Repository** | [https://github.com/TuesdayB/full-stack-tech-exam](https://github.com/your-username/your-repo-name) | 
 | **GitHub Pages (docs/)** | [https://tuesdayb.github.io/full-stack-tech-exam/](https://your-username.github.io/your-repo-name/) | 
 | **Dev Server (Render)** | [https://full-stack-tech-exam-kcg6.onrender.com/](https://your-app-name-dev.onrender.com) | 
-| **Production Server (GCP)** | [http://34.60.189.36:3000/](http://34.60.189.36:3000/) | 
+| **Production Server (GCP)** | [http://34.60.189.36/](http://34.60.189.36/) | 
 | **Issue** | [https://github.com/TuesdayB/full-stack-tech-exam/issues/2](https://github.com/TuesdayB/full-stack-tech-exam/issues/2) | 
 | **Pull Request** | [https://github.com/TuesdayB/full-stack-tech-exam/pull/1](https://github.com/TuesdayB/full-stack-tech-exam/pull/1) | 
 | **Milestone** | [https://github.com/TuesdayB/full-stack-tech-exam/milestone/1](https://github.com/TuesdayB/full-stack-tech-exam/milestone/1) | 
