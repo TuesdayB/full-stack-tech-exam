@@ -12,15 +12,13 @@ document.getElementById('nameForm').addEventListener('submit', async (e) => {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          name
+          userName: name 
         })
       });
       const result = await response.json();
 
-      console.log(result);
-      console.log(name);
       if (response.ok) {
-        document.getElementById('result').innerHTML = result.name;
+        document.getElementById('result').innerHTML = result.message + '<br>Name: ' + result.name + '<br>Emoji: ' + result.emoji;
       }
 
     } catch (error) {
