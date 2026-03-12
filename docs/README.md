@@ -13,7 +13,7 @@
 | **Issue** | [https://github.com/TuesdayB/full-stack-tech-exam/issues/2](https://github.com/TuesdayB/full-stack-tech-exam/issues/2) | 
 | **Pull Request** | [https://github.com/TuesdayB/full-stack-tech-exam/pull/1](https://github.com/TuesdayB/full-stack-tech-exam/pull/1) | 
 | **Milestone** | [https://github.com/TuesdayB/full-stack-tech-exam/milestone/1](https://github.com/TuesdayB/full-stack-tech-exam/milestone/1) | 
-| **Successful CI/CD Action** | [https://github.com/your-username/your-repo-name/actions/runs/your-run-id](https://github.com/your-username/your-repo-name/actions/runs/your-run-id) | 
+| **Successful CI/CD Action** | [https://github.com/TuesdayB/full-stack-tech-exam/actions/runs/23024397413/job/66868617005](https://github.com/TuesdayB/full-stack-tech-exam/actions/runs/23024397413/job/66868617005) | 
 | **ssh cmd to your gcp** | `ssh -i student-key tuesd@34.60.189.36` | 
 
 ---
@@ -81,3 +81,4 @@
 
 ## Submission
 - a link to your repository. 
+
