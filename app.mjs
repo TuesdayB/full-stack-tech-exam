@@ -3,6 +3,7 @@ import express from 'express';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import { MongoClient, ServerApiVersion, ObjectId } from 'mongodb';
+import 'dotenv/config';
 
 const app = express();
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -22,7 +23,7 @@ const client = new MongoClient(uri, {
   }
 });
 
-const yourNameAndEmoji = { name: 'barry', emoji: '🐸' }; //don't use my frog. 
+const yourNameAndEmoji = { name: 'tuesday', emoji: '🦩' };
 
 
 //app instantiations
