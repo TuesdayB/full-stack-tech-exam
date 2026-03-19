@@ -13,7 +13,7 @@
 | **Issue** | [[https://github.com/TuesdayB/full-stack-tech-exam/issues/3](https://github.com/TuesdayB/full-stack-tech-exam/issues/3) | 
 | **Pull Request** | [https://github.com/TuesdayB/full-stack-tech-exam/pull/4](https://github.com/TuesdayB/full-stack-tech-exam/pull/4) | 
 | **Milestone** | [https://github.com/TuesdayB/full-stack-tech-exam/milestone/2](https://github.com/TuesdayB/full-stack-tech-exam/milestone/2) | 
-| **Successful CI/CD Action** | [https://github.com/TuesdayB/full-stack-tech-exam/actions/runs/23024397413/job/66868617005](https://github.com/TuesdayB/full-stack-tech-exam/actions/runs/23024397413/job/66868617005) | 
+| **Successful CI/CD Action** | [https://github.com/TuesdayB/full-stack-tech-exam/actions/runs/23308722684](https://github.com/TuesdayB/full-stack-tech-exam/actions/runs/23308722684) | 
 | **ssh cmd to your gcp** | `ssh -i student-key tuesd@34.60.189.36` | 
 
 ---
