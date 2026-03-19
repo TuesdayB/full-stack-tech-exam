@@ -10,7 +10,7 @@
 | **GitHub Pages (docs/)** | [https://tuesdayb.github.io/full-stack-tech-exam/](https://your-username.github.io/your-repo-name/) | 
 | **Dev Server (Render)** | [https://full-stack-tech-exam-kcg6.onrender.com/](https://your-app-name-dev.onrender.com) | 
 | **Production Server (GCP)** | [http://34.60.189.36/](http://34.60.189.36/) | 
-| **Issue** | [[https://github.com/TuesdayB/full-stack-tech-exam/issues/3](https://github.com/TuesdayB/full-stack-tech-exam/issues/3) | 
+| **Issue** | [https://github.com/TuesdayB/full-stack-tech-exam/issues/3](https://github.com/TuesdayB/full-stack-tech-exam/issues/3) | 
 | **Pull Request** | [https://github.com/TuesdayB/full-stack-tech-exam/pull/4](https://github.com/TuesdayB/full-stack-tech-exam/pull/4) | 
 | **Milestone** | [https://github.com/TuesdayB/full-stack-tech-exam/milestone/2](https://github.com/TuesdayB/full-stack-tech-exam/milestone/2) | 
 | **Successful CI/CD Action** | [https://github.com/TuesdayB/full-stack-tech-exam/actions/runs/23308722684](https://github.com/TuesdayB/full-stack-tech-exam/actions/runs/23308722684) | 
